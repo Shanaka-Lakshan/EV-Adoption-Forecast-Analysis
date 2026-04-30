@@ -1,0 +1,101 @@
+station_name,city,state,ev_level2_evse_num,ev_dc_fast_num,total_chargers
+Seattle-Tacoma International Airport - General Parking,Seattle,WA,68,0,68
+Avista Corp,Spokane,WA,2,0,2
+Steam Plant Parking,Spokane,WA,6,0,6
+BELLEVUE BELLEVUE CH 1,Bellevue,WA,2,0,2
+KING COUNTY DES ISSAQUAH P&R 2,Issaquah,WA,2,0,2
+King County - King County Van Distribution Center,Redmond,WA,3,0,3
+UWB CASCADIA CC NORTH LEVEL 3 N,Bothell,WA,2,0,2
+CITY OF REDMOND CITY HALL DUAL,Redmond,WA,2,0,2
+CITY OF REDMOND MOC #1 PUBLIC,Redmond,WA,2,0,2
+WILLOWS LODGE WILLOWS #2,Woodinville,WA,2,0,2
+Rairdon's Nissan - Auburn,Auburn,WA,3,1,4
+Burien Nissan,Burien,WA,2,1,3
+Olympia Nissan,Olympia,WA,1,1,2
+Tacoma Nissan,Tacoma,WA,1,1,2
+O'Brien Nissan,Walla Walla,WA,1,0,1
+KEY CENTER KEY CENTER 6,Bellevue,WA,2,0,2
+KRC SKYLINE SKYLINE #1,Bellevue,WA,2,0,2
+Caplan's Rainbow Parking,Seattle,WA,2,0,2
+CITY OF SEATAC CITY HALL 1,SeaTac,WA,2,0,2
+Puget Sound Energy,Tacoma,WA,1,0,1
+City of Tacoma - Municipal Building,Tacoma,WA,2,0,2
+BELLEVUE SBCC #2,Bellevue,WA,2,0,2
+VALLEY MED CTR MAIN LOT #5,Renton,WA,2,0,2
+VALLEY MED CTR N GARAGE #1,Renton,WA,2,0,2
+City of Renton - City Shops,Renton,WA,2,0,2
+TAC PW PARKING GLASS MSM CP 01,Tacoma,WA,2,0,2
+Campbell Nissan - Everett,Everett,WA,1,0,1
+Karmart Nissan,Burlington,WA,0,1,1
+Bill Robertson Nissan,Pasco,WA,1,0,1
+Bill Korum's Puyallup Nissan,Puyallup,WA,1,0,1
+Younker Nissan,Renton,WA,1,0,1
+City of Seattle - Central Library,Seattle,WA,3,0,3
+City of Seattle - Muni Tower,Seattle,WA,32,0,32
+City of Seattle - Parking Enforcement Division,Seattle,WA,13,0,13
+City of Seattle - Seattle Center,Seattle,WA,6,0,6
+City of Seattle - Seattle City Light North Service Center,Seattle,WA,4,0,4
+City of Seattle - Seattle Water Ops,Seattle,WA,4,0,4
+City of Seattle - West Bridge,Seattle,WA,2,0,2
+Advantage Nissan,Bremerton,WA,1,0,1
+Alan Webb Nissan,Vancouver,WA,1,0,1
+Valley Nissan,Yakima,WA,1,0,1
+Valley Nissan,Yakima,WA,1,0,1
+Snohomish County - Evergreen Fairgrounds,Monroe,WA,2,0,2
+Puget Sound Energy,Seattle,WA,1,0,1
+KING COUNTY DES KSC STATION #1,Seattle,WA,1,0,1
+Evergreen Ford,Issaquah,WA,2,0,2
+Nikola Broadband,Sequim,WA,1,0,1
+King County - Roads Maintenance Facility,Renton,WA,4,0,4
+Mazama Country Inn,Mazama,WA,1,0,1
+VIA6 VIA6-SOUTH,Seattle,WA,2,0,2
+800 FIFTH AVE STATION 2,Seattle,WA,2,0,2
+Campbell's Lake Chelan Resort,Chelan,WA,1,0,1
+Pine Near RV Park,Winthrop,WA,1,0,1
+Omak Inn,Omak,WA,1,0,1
+59er Diner,Leavenworth,WA,1,0,1
+PARKMETRO1 PARK METRO #1,Bellevue,WA,2,0,2
+VALLEY MED CTR MAIN LOT #8,Renton,WA,2,0,2
+Haselwood Chevrolet Buick GMC,Bremerton,WA,2,0,2
+Lakeside 24 Hour Fuel,Cougar,WA,1,0,1
+Kitsap Transit Harborside Garage,Bremerton,WA,4,0,4
+Mount Rainier National Park,Longmire,WA,1,0,1
+Mount Rainier National Park,Ashford,WA,1,0,1
+Semiahmoo Resort,Blaine,WA,1,0,1
+Best Western Plus - Heritage Inn,Bellingham,WA,1,0,1
+UDR TEN20 #1,Bellevue,WA,2,0,2
+City of Chelan,Chelan,WA,2,0,2
+LCC LCC H&S #1,Longview,WA,2,0,2
+UWMC UWMC #1,Bellevue,WA,2,0,2
+UWMC 4245 UWMC 4245 #1,Seattle,WA,2,0,2
+UWMC 4225 UWMC 4225 #1,Seattle,WA,2,0,2
+Town Nissan,East Wenatchee,WA,1,1,2
+MAIN HOSPITAL SILVER PARKING,Kirkland,WA,2,0,2
+MAIN HOSPITAL DEYOUNG1,Kirkland,WA,2,0,2
+MAIN HOSPITAL BLUE PARKING,Kirkland,WA,2,0,2
+Leskovar Mitsubishi,Kennewick,WA,3,0,3
+Mellisoni Vineyard,Chelan,WA,1,0,1
+Snoqualmie Casino,Issaquah,WA,8,0,8
+WCEH Wenatchee,Wenatchee,WA,1,2,3
+WCEH Centralia,Centralia,WA,1,2,3
+WCEH Bellingham,Bellingham,WA,1,2,3
+WCEH Castle Rock,Castle Rock,WA,1,2,3
+WCEH Burlington,Burlington,WA,1,1,2
+WCEH Ridgefield,Ridgefield,WA,1,2,3
+WCEH Skykomish,Skykomish,WA,1,1,2
+525 NORTHGATE RETAIL #1,Seattle,WA,2,0,2
+Power Trip Energy Corp,Port Townsend,WA,2,0,2
+GreenPod Development,Port Townsend,WA,2,0,2
+Windermere Real Estate,Port Townsend,WA,1,0,1
+SIA W GARAGE F.1 #1,Spokane,WA,2,0,2
+MAIN HOSPITAL SILVER #2,Kirkland,WA,2,0,2
+WINSLOW WAY WINSLOW #1,Bainbridge Island,WA,2,0,2
+The Co-op Farm and Garden,Sequim,WA,1,0,1
+VISITOR GARAGE PEDESTAL UNIT,Tacoma,WA,1,0,1
+Banks Lake Brew and Bistro,Coulee City,WA,1,0,1
+VM CHARGERS VIRGINIA MASON2,Seattle,WA,1,0,1
+INSIGNIA 953 EV216,Seattle,WA,1,0,1
+UWB CASCADIA CC TRULY HOUSE #1,Bothell,WA,2,0,2
+UWB CASCADIA CC SOUTH L 3 N,Bothell,WA,2,0,2
+Best Western Plus - Tacoma Dome Hotel,Tacoma,WA,2,0,2
+ESSEX SAMMAMISH VIEW,Bellevue,WA,2,0,2
